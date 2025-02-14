@@ -3,7 +3,7 @@ package junit5;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 
-class TestParameterizedWithStrangeComments {
+class students {public,string,name;
      //FORMER_TEST_PARAMS
     //@CsvSource(
     //    {",must not be null",
